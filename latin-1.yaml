@@ -6,7 +6,11 @@ left:
   - title: Active Indicative
     fill: "#cb202c"
     groups:
+<<<<<<< HEAD
       - "Present | HATDOG[ō] | am[ās] | am[at] | am[āmus] | am[ātis] | am[ant]"
+=======
+      - "Present | HANDOG[ō] | am[ās] | am[at] | am[āmus] | am[ātis] | am[ant]"
+>>>>>>> 3c9d72246878d4bc4ed29a143f676af4d31f2e0c
       - "Imperfect | am[ābam] | am[ābās] | am[ābat] | am[ābāmus] | am[ābātis] | am[ābant]"
       - "Future | am[ābō] | am[ābis] | am[ābit] | am[ābimus] | am[ābitis] | am[ābunt]"
       - "Perfect | {amāv}[ī] | {amāv}[istī] | {amāv}[it] | {amāv}[imus] | {amāv}[istis] | {amāv}[ērunt]"
